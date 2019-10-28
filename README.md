@@ -1,2 +1,2 @@
-<a href="https://bulochkadmg.github.io/inweb/"> inWeb</a>
+<a href="https://bulochkadmg.github.io/inweb/dist"> inWeb</a>
 
